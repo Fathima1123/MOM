@@ -1,0 +1,13 @@
+streamlit==1.35.0
+openai==1.30.2 
+deepgram-sdk==3.2.7
+httpx==0.27.0
+python-dotenv==1.0.0    
+streamlit-webrtc==0.47.1
+pydub==0.25.1
+ffmpeg-python==0.2.0
+numpy
+scipy
+av
+aiortc
+audio-recorder-streamlit
